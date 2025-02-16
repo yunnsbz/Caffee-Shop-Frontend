@@ -1,1 +1,2 @@
-# Caffee-Shop-Frontend
+### Caffee Shop Frontend
+*this is just a tutorial project*
